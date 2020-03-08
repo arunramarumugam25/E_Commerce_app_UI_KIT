@@ -1,0 +1,81 @@
+name: e_com
+description: A new Flutter project.
+version: 1.0.0+1
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  bubble_tab_indicator: ^0.1.4
+  carousel_slider: ^1.3.1
+  page_transition: ^1.1.5
+  
+dev_dependencies:
+  build_runner: ^1.0.0
+  built_value_generator: ^6.1.6
+  flutter_test:
+    sdk: flutter
+  
+flutter:
+  uses-material-design: true
+  assets:
+    - asset/cart.gif
+    - asset/orderempty.gif
+    - asset/o1.jpg
+    - asset/o2.jpg
+    - asset/o3.jpg
+    - asset/post.jpg
+    - asset/post1.jpg
+    - asset/post2.jpg
+    - asset/p1.jpg
+    - asset/p2.jpg
+    - asset/p3.jpg
+    - asset/p4.jpg
+    - asset/vege.png
+    - asset/lock.png
+    - asset/man.png
+    - asset/car.gif
+    - asset/netbank.png
+    - asset/phone.jpg
+    - asset/credit.png
+    - asset/paypal.png
+    - asset/paytm.png
+    - asset/googlepay.png
+    - asset/debit.png
+    - asset/person.png
+    - asset/apple.png
+    - asset/cart.png
+    - asset/coffee.jpg
+    - asset/farm.jpg
+    - asset/favo.gif
+    - asset/fb.png
+    - asset/Fruits.jpg
+    - asset/gmail.png
+    - asset/herbs.png
+    - asset/home.gif
+    - asset/instagram.png
+    - asset/Nunito-Black.ttf
+    - asset/Nunito-Bold.ttf
+    - asset/Nunito-Regular.ttf
+    - asset/oil.jpg
+    - asset/oil1.jpg
+    - asset/olive.png
+    - asset/one.png
+    - asset/oran.jpg
+    - asset/organic.png
+    - asset/processed.jpg
+    - asset/pulses.jpg
+    - asset/pumkin.png
+    - asset/reset.jpg
+    - asset/rice.JPG
+    - asset/slide.png
+    - asset/spalshicon.gif
+    - asset/spices.png
+    - asset/three.png
+    - asset/two.jpg
+    - asset/V1.gif
+    - asset/vege.gif
+    - asset/vegetable.jpg
+
+   
